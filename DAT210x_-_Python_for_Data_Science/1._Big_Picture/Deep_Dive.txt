@@ -1,0 +1,27 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2016-10-14T22:33:15+08:00
+
+====== Deep Dive ======
+Created Friday 14 October 2016
+
+===== Dive Deeper =====
+
+In this module, you learned the big picture behind what data science, data analysis, and machine learning really are, and then took a closer peek at the data analysis process. As you progress through each lecture and especially at the end of each module, remember to jot down a few notes on your course map. There should already be a few important annotations on it:
+* Collecting: Have a data driven question.
+* Collecting: The types of questions and problems solvable with machine learning.
+* Collecting: Collect as much data as you possibly can, focusing on samples.
+* Modeling: Unsupervised, and supervised learning, and how they're different.
+
+In the future, we won't summarize the points so be sure to take notes as you go! Another good idea is to start a running log of problems you want to solve. Just keep jotting them down as you think of them, and you'll have a backlog of cool ideas to tackle in the future. With a firmly defined problem you want to squash, you'll be better posed to hunt for related data.
+
+The quizzes that go with each lecture are intended to ensure you have a firm grasp on the topic covered. Taking them will help you keep the knowledge you've gained. And finally, each module will have a dive deeper section like this one, with extra resources you can use to further hone your skills, time permitting.
+
+
+==== Machine Learning ====
+* What Machine Learning Can and Can't Do 
+	- http://thenewstack.io/what-machine-learning-can-and-cant-do/
+* What Kind of Problems Can Machine Learning Solve
+	- https://web.archive.org/web/20160806102849/http://www.evolven.com/data-science/what-kind-of-problems-can-machine-learning-solve.html
+* On Supervised, Unsupervised, and Reinforcement Learning 
+	- http://www.cs.indiana.edu/~gasser/Salsa/rl.html
