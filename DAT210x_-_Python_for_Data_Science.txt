@@ -1,0 +1,10 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2016-10-14T21:37:33+08:00
+
+====== DAT210x - Python for Data Science ======
+Created Friday 14 October 2016
+
+Microsoft: DAT210x Programming with Python for Data Science
+
+https://courses.edx.org/courses/course-v1:Microsoft+DAT210x+6T2016/info
