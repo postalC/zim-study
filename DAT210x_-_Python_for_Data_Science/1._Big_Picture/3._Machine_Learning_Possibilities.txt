@@ -33,7 +33,7 @@ Classification falls into the realm of supervised learning because in order for 
 The goal of regression is to predict a continuous-valued feature associated with a sample. Continuous-valued meaning small changes in the input result in small changes in the output.
 
 Imagine hiking from Portland, OR to Seattle, WA. As time progresses, your distance from Portland increases and your distance to Seattle decreases. Even though you stop for meals and to rest, these distance values transition smoothly. Throughout the course of your hiking, you never magically teleport a large distance. Instead, you smoothly and incrementally make your way step-by-step. With regression, a mathematical relationship is modeled for your samples so that as you gently alter one feature, another feature responds by being altered as well.
-{{./Regression.png}}
+{{../image/Regression.png}}
 
 ==== More Examples ====
 * Calculate an equation to predict the size of a house given its price; or the price of a house given its size.
@@ -48,7 +48,7 @@ Regression falls into the realm of supervised learning because in order for it t
 The goal of clustering is to automatically group similar samples into sets.
 
 Since a clustering algorithm has no prior knowledge of how the sets should be defined, and furthermore, since the clustering process is unsupervised, the clustering algorithm needs to have a way to tell which samples are the most similar, so it can group them. It does this the same way we humans do: by looking at the various characteristics and features of the sample.
-{{./Clustering.png}}
+{{../image/Clustering.png}}
 
 ==== More Examples ====
 * Match similar people on a matrimonial site based on their profile question answers.
@@ -61,7 +61,7 @@ There are different types of clustering algorithms, some supervised, some unsupe
 
 ===== Dimensionality Reduction (Unsupervised) =====
 The goal of dimensionality reduction is to systematically and intelligently reduce the number of features considered in a dataset. Stated differently, trim the fat off. Often times, in one's eagerness to collect enough data for machine learning to be effective, you might add irrelevant features to your dataset. Bad features have the effect of hindering the machine learning process, and make your data harder to understand. Dimensionality reduction attempts to trim your dataset down to the bare essentials needed for decision-making.
-{{./DimenReduct.png}}
+{{../image/DimenReduct.png}}
 
 ==== More Examples ====
 * Given a 100 question survey, attempt to find the gist of what is truly being accessed; then rephrase it in just 5 questions.
@@ -74,7 +74,7 @@ Dimensionality reduction falls into the realm of unsupervised learning because y
 
 ===== Reinforcement Learning =====
 The goal of reinforcement learning is to maximize a cumulative reward function (or equivalently, minimize a cumulative cost function), given a set of actions and results. Reinforcement learning is modeled to mimic the way we learn in the real world. We try to solve problems using different techniques. Most of the time, nothing of merit results from our experiments. But occasionally, we stumble upon a set of actions that result in a sweet reward. When this happens, we attempt to repeat these actions that will result in our getting rewarded. If we are rewarded yet again, we further associate those actions with the reward and that is known as the reinforcement cycle. The entire process is also known as performance maximization.
-{{./RL.png}}
+{{../image/RL.png}}
 
 ==== More Examples ====
 * Discover how to fly a quadcopter by minimizing the function which evaluates the chances of crashing.

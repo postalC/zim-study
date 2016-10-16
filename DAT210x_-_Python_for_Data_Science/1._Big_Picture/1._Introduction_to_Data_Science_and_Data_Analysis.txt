@@ -6,7 +6,7 @@ Creation-Date: 2016-10-14T21:48:24+08:00
 Created Friday 14 October 2016
 
 There are so many definitions for data scientists and science out there that it's honestly a bit tiring keeping up. With the added case of slightly conflicting explanations, who's to say who has the right interpretation? When in doubt, combine them all and examine the data:
-{{../Skillset_Breakdown.png}}
+{{../image/Skillset_Breakdown.png}}
 
 We live in an age where more information exist than ever before, and it's also easier and cheaper to collect it, store it, and process mass quantities of it. Due to this, data related jobs are popping up by the minute. In this course, you're going to touch on many of the facets of the job of data analysts, architects, engineers, and scientists... with a focus on analysis. At least from the chart above, it seems that analysts are mini-scientist in the making.
 
@@ -20,7 +20,7 @@ Data analysts carry out their job of engaging data using a well refined, multi-p
 * Evaluating the results of the data models
 
 Our goal is to have you become comfortable with these steps. To make the learning process more interesting, let's gamify things a bit. Here is a course-map of the data analysis process, and your goal is to get to the intelligence cloud by the end of the course:
-{{./Course_Map.png}}
+{{../image/Course_Map.png}}
 A PDF of this map has been included in your /DAT210x/ course folder, which was created when you unzipped the file from the lab section.
 
 As you progress through the course, be sure to annotate the boxes in the map with everything you are learning. Once you've completed the course, this map might serve as a source of inspiration for how far you've come. It can also act as a template for when you wish to apply data analysis again in the future.
